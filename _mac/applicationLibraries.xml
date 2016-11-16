@@ -480,6 +480,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/addressable-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/addressable-2.5.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/addressable-2.5.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/addressable-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/addressable-2.5.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/addressable-2.5.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="adhoq (v0.1.0, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/adhoq-0.1.0/db" />
@@ -522,6 +534,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/ancestry-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ancestry (v2.2.2, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/ancestry-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/ancestry-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="apnotic (v1.0.1, rbenv: 2.1.9) [gem]">
@@ -752,6 +772,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/autoprefixer-rails-6.5.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/autoprefixer-rails-6.5.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v6.5.3, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/autoprefixer-rails-6.5.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/autoprefixer-rails-6.5.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/autoprefixer-rails-6.5.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/autoprefixer-rails-6.5.3/vendor" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v1.66.0, rbenv: 2.1.9) [gem]">
@@ -1206,6 +1236,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bootstrap3-datetimepicker-rails-4.17.42/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bootstrap3-datetimepicker-rails-4.17.42/vendor" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap3-datetimepicker-rails (v4.17.43, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bootstrap3-datetimepicker-rails-4.17.43/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bootstrap3-datetimepicker-rails-4.17.43/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bootstrap3-datetimepicker-rails-4.17.43/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bootstrap3-datetimepicker-rails-4.17.43/vendor" />
       </SOURCES>
     </library>
     <library name="brakeman (v3.0.5, rbenv: 2.1.9) [gem]">
@@ -3058,6 +3098,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v5.0.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-5.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-api (v1.0.15, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-api-1.0.15/lib" />
@@ -3076,6 +3124,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-api-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-api-2.0.0/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v5.0.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-api-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-api-5.0.0/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-api-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-api-5.0.0/utils" />
       </SOURCES>
     </library>
     <library name="elasticsearch-model (v0.1.8, rbenv: 2.1.9) [gem]">
@@ -3128,6 +3186,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-transport-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v5.0.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-transport-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/elasticsearch-transport-5.0.0/lib" />
       </SOURCES>
     </library>
     <library name="em-hiredis (v0.3.1, rbenv: 2.2.3) [gem]">
@@ -4324,6 +4390,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.15/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-openstack (v0.1.17, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-openstack (v0.1.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.3/bin" />
@@ -4394,6 +4472,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-profitbricks-2.0.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-profitbricks (v3.0.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-rackspace (v0.1.1, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-rackspace-0.1.1/bin" />
@@ -4416,6 +4506,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-rackspace (v0.1.2, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-rackspace-0.1.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-rackspace-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-rackspace-0.1.2/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-rackspace-0.1.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-rackspace-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-rackspace-0.1.2/tests" />
       </SOURCES>
     </library>
     <library name="fog-radosgw (v0.0.5, rbenv: 2.1.9) [gem]">
@@ -4736,6 +4838,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.0/tests" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-vsphere (v1.5.1, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.1/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/fog-vsphere-1.5.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-xenserver (v0.2.3, rbenv: 2.1.9) [gem]">
@@ -7594,6 +7708,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.0.325/recipes" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v3.17.1.326, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/newrelic_rpm-3.17.1.326/recipes" />
+      </SOURCES>
+    </library>
     <library name="nicescroll-rails (v3.5.4.1, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/nicescroll-rails-3.5.4.1/lib" />
@@ -7816,6 +7950,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/non-stupid-digest-assets-1.0.8/lib" />
       </SOURCES>
     </library>
+    <library name="non-stupid-digest-assets (v1.0.9, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/non-stupid-digest-assets-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/non-stupid-digest-assets-1.0.9/lib" />
+      </SOURCES>
+    </library>
     <library name="nondestructive_migrations (v1.1, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/nondestructive_migrations-1.1/lib" />
@@ -7874,6 +8016,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/octokit-4.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="octokit (v4.6.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/octokit-4.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/octokit-4.6.0/lib" />
       </SOURCES>
     </library>
     <library name="omniauth (v1.3.1, rbenv: 2.1.9) [gem]">
@@ -8510,6 +8660,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v2.0.4, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/public_suffix-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/public_suffix-2.0.4/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/public_suffix-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/public_suffix-2.0.4/data" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.4.0, rbenv: 2.1.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/puma-3.4.0/bin" />
@@ -8712,6 +8872,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-1.6.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-1.6.4/contrib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.5, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
     <library name="rack-contrib (v1.1.0, rbenv: 2.1.9) [gem]">
@@ -11108,6 +11282,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/sawyer-0.7.0/script" />
       </SOURCES>
     </library>
+    <library name="sawyer (v0.8.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/sawyer-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/sawyer-0.8.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/sawyer-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/sawyer-0.8.0/script" />
+      </SOURCES>
+    </library>
     <library name="sdoc (v0.4.1, rbenv: 2.1.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/sdoc-0.4.1/bin" />
@@ -12968,6 +13152,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.1.0/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.1.0/archive" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.1.0/Documentation" />
+      </SOURCES>
+    </library>
+    <library name="unicorn (v5.2.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/unicorn/5.2.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/t" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/archive" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/Documentation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/unicorn/5.2.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/t" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/archive" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/unicorn-5.2.0/Documentation" />
       </SOURCES>
     </library>
     <library name="uniform_notifier (v1.10.0, rbenv: 2.3.0) [gem]">
