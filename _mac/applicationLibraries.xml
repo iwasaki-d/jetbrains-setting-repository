@@ -524,6 +524,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/ancestry-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="apnotic (v1.0.1, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/apnotic-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/apnotic-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/apnotic-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/apnotic-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.7.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/archive-zip-0.7.0/lib" />
@@ -2184,6 +2194,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/config-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="connection_pool (v2.2.1, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="copy_tuner_client (v0.2.2, rbenv: 2.1.9) [gem]">
@@ -5570,6 +5588,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="http-2 (v0.8.2, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-2-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-2-0.8.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-2-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-2-0.8.2/example" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.2, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-cookie-1.0.2/lib" />
@@ -7370,6 +7398,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nested_form-0.3.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nested_form-0.3.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="net-http2 (v0.14.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/net-http2-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/net-http2-0.14.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/net-http2-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/net-http2-0.14.0/lib" />
       </SOURCES>
     </library>
     <library name="net-scp (v1.1.2, rbenv: 2.1.1) [gem]">
