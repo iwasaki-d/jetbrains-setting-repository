@@ -1,17 +1,11 @@
 <templateSet group="capybara">
   <template name="fill_in" value="fill_in 'ツィート', with: body_string" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
+    <context />
   </template>
   <template name="get from data" value="find('.card-tweet')['data-card-id']" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
+    <context />
   </template>
   <template name="find from data" value="first(&quot;.card-tweet[data-card-id='#{tweet_id}'] .card-edit .btn-primary&quot;).click" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
