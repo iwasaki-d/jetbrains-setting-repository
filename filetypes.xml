@@ -9,6 +9,7 @@
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="registrations_controller" type="Ruby" />
       <mapping pattern=".keep" type="TSLint" />
       <mapping ext="csv" type="TSLint" />
     </extensionMap>
