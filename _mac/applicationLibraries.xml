@@ -2860,6 +2860,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/default_value_for-3.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="default_value_for (v3.0.2, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/default_value_for-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/default_value_for-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="delayed_job (v4.1.1, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/delayed_job-4.1.1/lib" />
