@@ -664,26 +664,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="administrate-field-i18n-enum (v0.1.0, rbenv: 2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.0/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.0/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="administrate-field-i18n-enum (v0.1.1, rbenv: 2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.1/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.1/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-i18n-enum-0.1.1/lib" />
-      </SOURCES>
-    </library>
     <library name="administrate-field-i18n_enum (v0.1.1, rbenv: 2.4.0) [gem]">
       <CLASSES />
       <SOURCES />
