@@ -8598,6 +8598,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/non-stupid-digest-assets-1.0.9/lib" />
       </SOURCES>
     </library>
+    <library name="non-stupid-digest-assets (v1.0.9, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/non-stupid-digest-assets-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/non-stupid-digest-assets-1.0.9/lib" />
+      </SOURCES>
+    </library>
     <library name="nondestructive_migrations (v1.1, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/nondestructive_migrations-1.1/lib" />
