@@ -13,6 +13,7 @@
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="registrations_controller" type="Ruby" />
+      <mapping ext="ruby" type="Ruby" />
       <mapping pattern=".keep" type="TSLint" />
       <mapping ext="csv" type="TSLint" />
     </extensionMap>
