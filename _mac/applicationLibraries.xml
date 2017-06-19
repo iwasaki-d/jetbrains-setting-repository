@@ -5742,6 +5742,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/google-analytics-rails-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="google-analytics-rails (v1.1.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/google-analytics-rails-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/google-analytics-rails-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gretel (v3.0.8, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gretel-3.0.8/lib" />
