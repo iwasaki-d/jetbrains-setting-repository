@@ -666,6 +666,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-carrierwave-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="administrate-field-carrierwave (v0.2.0@4576a3, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/administrate-field-carrierwave-4576a3be3569/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/administrate-field-carrierwave-4576a3be3569/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/administrate-field-carrierwave-4576a3be3569/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/administrate-field-carrierwave-4576a3be3569/lib" />
+      </SOURCES>
+    </library>
     <library name="administrate-field-carrierwave (v0.2.0@5b8be7, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/administrate-field-carrierwave-5b8be7d5020f/app" />
