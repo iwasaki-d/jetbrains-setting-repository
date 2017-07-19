@@ -60,6 +60,12 @@
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
