@@ -1472,6 +1472,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bootstrap3-datetimepicker-rails-4.17.43/vendor" />
       </SOURCES>
     </library>
+    <library name="bootstrap3-datetimepicker-rails (v4.17.47, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bootstrap3-datetimepicker-rails-4.17.47/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bootstrap3-datetimepicker-rails-4.17.47/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bootstrap3-datetimepicker-rails-4.17.47/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bootstrap3-datetimepicker-rails-4.17.47/vendor" />
+      </SOURCES>
+    </library>
     <library name="bootstrap_form (v2.3.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bootstrap_form-2.3.0/app" />
@@ -2808,6 +2818,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/datetime_picker_rails-0.0.7/app" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/datetime_picker_rails-0.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="datetime_picker_rails (v0.0.7@c37595, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/datetime_picker_rails-c3759517022b/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/datetime_picker_rails-c3759517022b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/datetime_picker_rails-c3759517022b/bootstrap-datetimepicker" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/datetime_picker_rails-c3759517022b/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/datetime_picker_rails-c3759517022b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/datetime_picker_rails-c3759517022b/bootstrap-datetimepicker" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.1, rbenv: 2.1.9) [gem]">
