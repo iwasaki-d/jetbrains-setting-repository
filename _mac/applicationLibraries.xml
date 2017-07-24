@@ -13940,6 +13940,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/zendesk_api-1.14.2/util" />
       </SOURCES>
     </library>
+    <library name="zengin_code (v1.0.1.20170713, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/zengin_code-1.0.1.20170713/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/zengin_code-1.0.1.20170713/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/zengin_code-1.0.1.20170713/source-data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/zengin_code-1.0.1.20170713/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/zengin_code-1.0.1.20170713/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/zengin_code-1.0.1.20170713/source-data" />
+      </SOURCES>
+    </library>
     <library name="zeroclipboard-rails (v0.1.1, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/zeroclipboard-rails-0.1.1/app" />
