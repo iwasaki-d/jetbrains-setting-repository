@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="users_decorator" type="PLAIN_TEXT" />
+      <mapping pattern="umi" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="stripe_service" type="PLAIN_TEXT" />
+      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="index_operatable" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
       <mapping pattern="procfile" type="PLAIN_TEXT" />
