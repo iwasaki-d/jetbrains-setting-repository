@@ -1644,6 +1644,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/buftok-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="buftok (v0.2.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/buftok-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/buftok-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bugsnag (v4.0.0, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/bugsnag-4.0.0/lib" />
@@ -3976,6 +3984,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/equalizer-0.0.10/config" />
       </SOURCES>
     </library>
+    <library name="equalizer (v0.0.11, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/equalizer-0.0.11/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/equalizer-0.0.11/config" />
+      </SOURCES>
+    </library>
     <library name="erb2haml (v0.1.5, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/erb2haml-0.1.5/lib" />
@@ -4384,6 +4402,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/faker-1.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.11.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/faraday-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/faraday-0.11.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.12.1, rbenv: 2.3.1) [gem]">
@@ -6232,6 +6258,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="http (v2.2.2, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="http-2 (v0.8.2, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-2-0.8.2/lib" />
@@ -6298,6 +6332,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http-form_data-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="http-form_data (v1.0.3, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http-form_data-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http-form_data-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="http_parser.rb (v0.6.0, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/http_parser.rb/0.6.0" />
@@ -6328,6 +6370,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="http_parser.rb (v0.6.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/tasks" />
       </SOURCES>
     </library>
     <library name="httparty (v0.13.7, rbenv: 2.1.9) [gem]">
@@ -7550,6 +7608,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/memoizable-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="memoizable (v0.4.2, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/memoizable-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/memoizable-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="meta-tags (v2.1.0, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/meta-tags-2.1.0/lib" />
@@ -8132,6 +8198,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/naught-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="naught (v1.1.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/naught-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/naught-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="neat (v1.8.0, rbenv: 2.4.0) [gem]">
@@ -12168,6 +12242,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/simple_oauth-0.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="simple_oauth (v0.3.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/simple_oauth-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/simple_oauth-0.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sitemap_generator (v5.3.1, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/sitemap_generator-5.3.1/lib" />
@@ -13450,6 +13532,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="twitter (v6.1.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/twitter-6.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/twitter-6.1.0/lib" />
       </SOURCES>
     </library>
     <library name="twitter-bootswatch-rails (v3.1.1.1, rbenv: 2.3.1) [gem]">
