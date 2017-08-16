@@ -784,6 +784,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-0.7.0/config" />
       </SOURCES>
     </library>
+    <library name="administrate (v0.8.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-0.8.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-0.8.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-0.8.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-0.8.1/config" />
+      </SOURCES>
+    </library>
     <library name="administrate-field-carrierwave (v0.2.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-carrierwave-0.2.0/app" />
@@ -1156,6 +1168,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-7.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-7.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v7.1.2.6, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-7.1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-7.1.2.6/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-7.1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-7.1.2.6/vendor" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v1.66.0, rbenv: 2.1.9) [gem]">
