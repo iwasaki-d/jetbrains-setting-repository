@@ -8908,6 +8908,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/omniauth-google-oauth2-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="omniauth-line (v0.0.4@8d2c73, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/omniauth-line-8d2c73726b8a/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/omniauth-line-8d2c73726b8a/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth-oauth2 (v1.4.0, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/omniauth-oauth2-1.4.0/lib" />
