@@ -8,6 +8,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="stripe_service" type="PLAIN_TEXT" />
       <mapping pattern="index_operatable" type="PLAIN_TEXT" />
+      <mapping pattern="eventmachine" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
       <mapping pattern="logout_helper" type="PLAIN_TEXT" />
       <mapping pattern="procfile" type="PLAIN_TEXT" />
