@@ -1230,6 +1230,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/atomic-1.1.99/lib" />
       </SOURCES>
     </library>
+    <library name="auth0 (v4.0.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/auth0-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/auth0-4.0.0/.bundle" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/auth0-4.0.0/doc_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/auth0-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/auth0-4.0.0/.bundle" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/auth0-4.0.0/doc_config" />
+      </SOURCES>
+    </library>
     <library name="auto_html (v1.6.4, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/auto_html-1.6.4/lib" />
@@ -7082,6 +7094,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/htmlentities-4.3.4/perf" />
       </SOURCES>
     </library>
+    <library name="httmultiparty (v0.3.16, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httmultiparty-0.3.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httmultiparty-0.3.16/lib" />
+      </SOURCES>
+    </library>
     <library name="http (v1.0.3, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/http-1.0.3/lib" />
@@ -7220,12 +7240,14 @@
     </library>
     <library name="http_parser.rb (v0.6.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/http_parser.rb-0.6.0/bench" />
@@ -7262,6 +7284,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/httparty-0.14.0/script" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/httparty-0.14.0/website" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/httparty-0.14.0/features" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.15.6, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.15.6/features" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, rbenv: 2.1.9) [gem]">
@@ -11978,11 +12016,13 @@
     </library>
     <library name="rb-fsevent (v0.10.2, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
@@ -12458,10 +12498,12 @@
     </library>
     <library name="rgeo (v0.6.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rgeo/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rgeo-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rgeo-0.6.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rgeo/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rgeo-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rgeo-0.6.0/lib" />
       </SOURCES>
