@@ -3634,10 +3634,12 @@
     </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -5266,12 +5268,14 @@
     </library>
     <library name="ffi (v1.9.14, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.14/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ffi-1.9.14/lib" />
@@ -9680,11 +9684,13 @@
     </library>
     <library name="nio4r (v2.0.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.0.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nio4r-2.0.0/tasks" />
@@ -9836,6 +9842,7 @@
     </library>
     <library name="nokogiri (v1.7.0.1, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/lib" />
@@ -9845,6 +9852,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/nokogiri-1.7.0.1/lib" />
@@ -10938,12 +10946,14 @@
     </library>
     <library name="puma (v3.6.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.6.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.6.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.6.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.6.0/lib" />
@@ -12094,11 +12104,13 @@
     </library>
     <library name="rb-fsevent (v0.9.8, rbenv: 2.4.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/lib" />
