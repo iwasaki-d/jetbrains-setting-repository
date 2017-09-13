@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="call_center_monitoring" type="PLAIN_TEXT" />
       <mapping pattern="users_decorator" type="PLAIN_TEXT" />
       <mapping pattern="umi" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="stripe_service" type="PLAIN_TEXT" />
+      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="index_operatable" type="PLAIN_TEXT" />
       <mapping pattern="eventmachine" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
+      <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="registrations_controller" type="Ruby" />
