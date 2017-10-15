@@ -74,7 +74,7 @@
       </debugger>
       <debugger id="ruby">
         <configuration>
-          <option name="timeLimit" value="500" />
+          <option name="timeLimit" value="3000" />
         </configuration>
       </debugger>
     </debuggers>
