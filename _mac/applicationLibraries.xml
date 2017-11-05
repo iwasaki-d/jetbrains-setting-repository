@@ -15930,6 +15930,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.5, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis (v4.0.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-4.0.1/lib" />
