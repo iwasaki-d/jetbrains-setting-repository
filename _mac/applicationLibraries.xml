@@ -1344,6 +1344,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/administrate-0.8.1/config" />
       </SOURCES>
     </library>
+    <library name="administrate-field-belongs_to_search (v0.4.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-belongs_to_search-0.4.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-belongs_to_search-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-belongs_to_search-0.4.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-belongs_to_search-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="administrate-field-carrierwave (v0.2.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/administrate-field-carrierwave-0.2.0/app" />
