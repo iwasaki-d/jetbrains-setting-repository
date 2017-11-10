@@ -3150,6 +3150,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-efd2841be045/.idea" />
       </SOURCES>
     </library>
+    <library name="call_center_monitoring_event (v0.1.23@07f971, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/.idea" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/.idea" />
+      </SOURCES>
+    </library>
     <library name="call_center_monitoring_event (v0.1.2@8e1d25, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-8e1d25a9cb87/bin" />
