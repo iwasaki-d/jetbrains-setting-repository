@@ -26,6 +26,7 @@
       <mapping pattern="dam2-textaz" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textat" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textal" type="PLAIN_TEXT" />
+      <mapping pattern="dam2-textah" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textag" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textaf" type="PLAIN_TEXT" />
       <mapping pattern="umi" type="PLAIN_TEXT" />
