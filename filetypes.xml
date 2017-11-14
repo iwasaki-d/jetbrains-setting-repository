@@ -40,6 +40,7 @@
       <mapping pattern="cq" type="PLAIN_TEXT" />
       <mapping pattern="bx" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
+      <mapping pattern="CreatePreRegistrationCouponService" type="PLAIN_TEXT" />
       <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
