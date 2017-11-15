@@ -9114,6 +9114,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/gretel-3.0.9/gemfiles" />
       </SOURCES>
     </library>
+    <library name="groupdate (v3.2.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/groupdate-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/groupdate-3.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="guard (v2.14.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/guard-2.14.0/bin" />
@@ -21600,6 +21608,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/where-or-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="wicked_pdf (v1.1.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wicked_pdf-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wicked_pdf-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wicked_pdf-1.1.0/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wicked_pdf-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wicked_pdf-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wicked_pdf-1.1.0/generators" />
+      </SOURCES>
+    </library>
+    <library name="wkhtmltopdf-binary (v0.12.3.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wkhtmltopdf-binary-0.12.3.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/wkhtmltopdf-binary-0.12.3.1/bin" />
       </SOURCES>
     </library>
     <library name="xcodeproj (v1.5.1, rbenv: 2.4.0) [gem]">
