@@ -3174,6 +3174,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-07f971caa3a0/.idea" />
       </SOURCES>
     </library>
+    <library name="call_center_monitoring_event (v0.1.24@9fdd77, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/.idea" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-9fdd7729a819/.idea" />
+      </SOURCES>
+    </library>
     <library name="call_center_monitoring_event (v0.1.2@8e1d25, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/call-center-monitoring-event-8e1d25a9cb87/bin" />
@@ -14832,6 +14846,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/pry-byebug-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v3.5.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/pry-byebug-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/pry-byebug-3.5.1/lib" />
       </SOURCES>
     </library>
     <library name="pry-doc (v0.10.0, rbenv: 2.4.0) [gem]">
