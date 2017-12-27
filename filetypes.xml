@@ -39,6 +39,7 @@
       <mapping pattern="_navpills_section" type="PLAIN_TEXT" />
       <mapping pattern="SendWorkOrderService" type="PLAIN_TEXT" />
       <mapping pattern="dam-textab" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="cw" type="PLAIN_TEXT" />
       <mapping pattern="cq" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
