@@ -12390,6 +12390,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jpmobile-4.2.3/tools" />
       </SOURCES>
     </library>
+    <library name="jquery-masonry-rails (v4.1.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jquery-masonry-rails-4.1.0/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jquery-masonry-rails-4.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jquery-masonry-rails-4.1.0/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jquery-masonry-rails-4.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-rails (v4.1.1, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/jquery-rails-4.1.1/lib" />
@@ -13650,6 +13660,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mail-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="masonry-rails (v0.2.4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/masonry-rails-0.2.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/masonry-rails-0.2.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/masonry-rails-0.2.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/masonry-rails-0.2.4/vendor" />
       </SOURCES>
     </library>
     <library name="memoist (v0.16.0, rbenv: 2.4.1) [gem]">
