@@ -1744,6 +1744,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="atomic (v1.1.99, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/atomic/1.1.99" />
@@ -15234,6 +15242,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/minitest-5.11.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.11.3, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.8.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
@@ -16480,6 +16496,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.1/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ports" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ports" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ext" />
       </SOURCES>
     </library>
     <library name="non-stupid-digest-assets (v1.0.8, rbenv: 2.1.9) [gem]">
@@ -18362,6 +18400,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.3/example" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.3/contrib" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.4, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/example" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/example" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-2.0.4/contrib" />
       </SOURCES>
     </library>
     <library name="rack-cache (v1.7.1, rbenv: 2.4.1) [gem]">
@@ -21236,6 +21288,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rspec-support-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.7.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rspec-support-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rspec-support-3.7.1/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.40.0, rbenv: 2.3.0) [gem]">
@@ -24912,6 +24972,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/uglifier-4.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.5, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/uglifier-4.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/uglifier-4.1.5/lib" />
       </SOURCES>
     </library>
     <library name="ultrahook (v0.1.4, rbenv: 2.4.0) [gem]">
