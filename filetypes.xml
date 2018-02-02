@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="bq" type="PLAIN_TEXT" />
+      <mapping pattern="validators" type="PLAIN_TEXT" />
       <mapping pattern="logout_helper" type="PLAIN_TEXT" />
       <mapping pattern="dam-textaa" type="PLAIN_TEXT" />
       <mapping pattern="be" type="PLAIN_TEXT" />
