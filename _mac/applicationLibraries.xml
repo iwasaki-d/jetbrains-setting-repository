@@ -14488,6 +14488,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/lightbox-bootstrap-rails-3.3.0.3/vendor" />
       </SOURCES>
     </library>
+    <library name="line-bot-api (v1.2.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/line-bot-api-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/line-bot-api-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.0.8, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/listen-3.0.8/bin" />
