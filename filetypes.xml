@@ -41,6 +41,7 @@
       <mapping pattern="_navpills_section" type="PLAIN_TEXT" />
       <mapping pattern="SendWorkOrderService" type="PLAIN_TEXT" />
       <mapping pattern="dam-textab" type="PLAIN_TEXT" />
+      <mapping pattern="_unit_string" type="PLAIN_TEXT" />
       <mapping pattern="regist_admin_notice_user_form" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="tel_validator" type="PLAIN_TEXT" />
