@@ -11478,6 +11478,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/font-awesome-rails-4.7.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="font-awesome-rails (v4.7.0.3, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/font-awesome-rails-4.7.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/font-awesome-rails-4.7.0.3/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/font-awesome-rails-4.7.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/font-awesome-rails-4.7.0.3/app" />
+      </SOURCES>
+    </library>
     <library name="font-awesome-sass (v4.2.2, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/font-awesome-sass-4.2.2/lib" />
@@ -17786,6 +17796,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/parsley-rails-2.7.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="parsley-rails (v2.7.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parsley-rails-2.7.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parsley-rails-2.7.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parsley-rails-2.7.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parsley-rails-2.7.0.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.18.4, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/pg/0.18.4" />
@@ -22752,6 +22772,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.10.1/bin" />
       </SOURCES>
     </library>
+    <library name="ruby_parser (v3.11.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.11.0/compare" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.11.0/compare" />
+      </SOURCES>
+    </library>
     <library name="ruby_parser (v3.7.3, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/ruby_parser-3.7.3/bin" />
@@ -23600,6 +23632,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/sexp_processor-4.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sexp_processor (v4.10.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/sexp_processor-4.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/sexp_processor-4.10.1/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.7.0, rbenv: 2.1.9) [gem]">
@@ -25606,6 +25646,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-5.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v5.1.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/turbolinks-5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/turbolinks-5.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="turbolinks-source (v5.0.0, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/turbolinks-source-5.0.0/lib" />
@@ -25668,6 +25716,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.1.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/turbolinks-source-5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/turbolinks-source-5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="twilio-ruby (v5.4.3, rbenv: 2.4.1) [gem]">
