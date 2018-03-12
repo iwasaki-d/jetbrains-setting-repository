@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="bq" type="PLAIN_TEXT" />
+      <mapping pattern="validators" type="PLAIN_TEXT" />
       <mapping pattern="logout_helper" type="PLAIN_TEXT" />
       <mapping pattern="dam-textaa" type="PLAIN_TEXT" />
       <mapping pattern="be" type="PLAIN_TEXT" />
       <mapping pattern="eventmachine" type="PLAIN_TEXT" />
+      <mapping pattern="dam2-textaa" type="PLAIN_TEXT" />
       <mapping pattern="accepted_notify_line_job" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="av" type="PLAIN_TEXT" />
@@ -19,36 +21,35 @@
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern="reqest_searches_form" type="PLAIN_TEXT" />
       <mapping pattern="send_sms_failed_notice_service" type="PLAIN_TEXT" />
-      <mapping pattern="bx" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbj" type="PLAIN_TEXT" />
       <mapping pattern="stripe_service" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbf" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbe" type="PLAIN_TEXT" />
-      <mapping pattern="validators" type="PLAIN_TEXT" />
-      <mapping pattern="users_decorator" type="PLAIN_TEXT" />
+      <mapping pattern="DatabaseTokenStore" type="PLAIN_TEXT" />
+      <mapping pattern="_unit_string" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textaz" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textat" type="PLAIN_TEXT" />
-      <mapping pattern="dj" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textal" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textah" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textag" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textaf" type="PLAIN_TEXT" />
       <mapping pattern="umi" type="PLAIN_TEXT" />
       <mapping pattern="eh" type="PLAIN_TEXT" />
-      <mapping pattern="dam2-textaa" type="PLAIN_TEXT" />
+      <mapping pattern="users_decorator" type="PLAIN_TEXT" />
       <mapping pattern="index_operatable" type="PLAIN_TEXT" />
       <mapping pattern="_navpills_section" type="PLAIN_TEXT" />
       <mapping pattern="SendWorkOrderService" type="PLAIN_TEXT" />
       <mapping pattern="dam-textab" type="PLAIN_TEXT" />
-      <mapping pattern="_unit_string" type="PLAIN_TEXT" />
+      <mapping pattern=".cellar" type="PLAIN_TEXT" />
       <mapping pattern="regist_admin_notice_user_form" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="dj" type="PLAIN_TEXT" />
       <mapping pattern="tel_validator" type="PLAIN_TEXT" />
       <mapping pattern="cw" type="PLAIN_TEXT" />
       <mapping pattern="cq" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
-      <mapping pattern=".cellar" type="PLAIN_TEXT" />
+      <mapping pattern="bx" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="CreatePreRegistrationCouponService" type="PLAIN_TEXT" />
       <mapping ext="slim_" type="PLAIN_TEXT" />

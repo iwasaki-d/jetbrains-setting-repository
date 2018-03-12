@@ -2156,6 +2156,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-7.2.5/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v8.1.0.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.1.0.1/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.1.0.1/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="aws (v2.10.2, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-2.10.2/lib" />
@@ -24172,6 +24182,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/simple_form-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_form (v3.5.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/simple_form-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/simple_form-3.5.1/lib" />
       </SOURCES>
     </library>
     <library name="simple_oauth (v0.3.1, rbenv: 2.1.9) [gem]">
