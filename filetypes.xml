@@ -48,6 +48,7 @@
       <mapping pattern="tel_validator" type="PLAIN_TEXT" />
       <mapping pattern="cw" type="PLAIN_TEXT" />
       <mapping pattern="cq" type="PLAIN_TEXT" />
+      <mapping pattern="SendExpoNotificationService" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
       <mapping pattern=".cellar" type="PLAIN_TEXT" />
       <mapping pattern="clouldinaries_controller" type="PLAIN_TEXT" />
