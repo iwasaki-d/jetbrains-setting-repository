@@ -1312,6 +1312,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/acts-as-taggable-on-4.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="acts-as-taggable-on (v5.0.0@38feff, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/acts-as-taggable-on-38fefffc8f10/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/acts-as-taggable-on-38fefffc8f10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/acts-as-taggable-on-38fefffc8f10/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/acts-as-taggable-on-38fefffc8f10/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/acts-as-taggable-on-38fefffc8f10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/acts-as-taggable-on-38fefffc8f10/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="acts_as_list (v0.7.2, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/acts_as_list-0.7.2/lib" />
