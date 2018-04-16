@@ -1886,6 +1886,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/administrate-field-password-0.0.4/app" />
       </SOURCES>
     </library>
+    <library name="afm (v0.2.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/afm-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/afm-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrussh (v1.1.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/airbrussh-1.1.1/bin" />
@@ -2036,6 +2044,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/arel-9.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="Ascii85 (v1.0.3, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/Ascii85-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/Ascii85-1.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/Ascii85-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/Ascii85-1.0.3/bin" />
       </SOURCES>
     </library>
     <library name="ast (v2.2.0, rbenv: 2.3.0) [gem]">
@@ -14180,6 +14198,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/has_scope-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="hashery (v2.1.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashery-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashery-2.1.2/alt" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashery-2.1.2/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashery-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashery-2.1.2/alt" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashery-2.1.2/demo" />
+      </SOURCES>
+    </library>
     <library name="hashie (v3.4.3, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hashie-3.4.3/lib" />
@@ -20118,6 +20148,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parsley-rails-2.7.0.0/vendor" />
       </SOURCES>
     </library>
+    <library name="pdf-reader (v2.1.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/pdf-reader-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/pdf-reader-2.1.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/pdf-reader-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/pdf-reader-2.1.0/bin" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.18.4, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/pg/0.18.4" />
@@ -25470,6 +25510,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-rc4 (v0.1.5, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby-rc4-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby-rc4-0.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby2ruby (v2.1.4, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/ruby2ruby-2.1.4/bin" />
@@ -28606,6 +28654,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ttfunk (v1.5.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ttfunk-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ttfunk-1.5.1/lib" />
       </SOURCES>
     </library>
     <library name="tunnel (v0.0.3, rbenv: 2.1.9) [gem]">
