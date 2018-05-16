@@ -38,6 +38,7 @@
   </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="DebugClass" />
   <action id="Diff.ApplyLeftSide">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -62,7 +63,7 @@
   </action>
   <action id="EditorLeftWithSelection">
     <keyboard-shortcut first-keystroke="shift left" />
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -72,7 +73,7 @@
   </action>
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift right" />
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
@@ -135,6 +136,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="RunDashboard.Debug" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta f1" />
