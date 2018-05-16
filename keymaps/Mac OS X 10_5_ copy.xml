@@ -61,6 +61,7 @@
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="EditorCutLineEnd" />
   <action id="EditorLeftWithSelection">
     <keyboard-shortcut first-keystroke="shift left" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -165,6 +166,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TypeHierarchy" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
