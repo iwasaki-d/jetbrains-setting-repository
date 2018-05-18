@@ -60,6 +60,7 @@
       <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="153" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="jd" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="haml2" type="PLAIN_TEXT" />
