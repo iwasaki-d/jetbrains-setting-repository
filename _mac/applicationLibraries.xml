@@ -32556,6 +32556,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="trumbowyg_rails (v2.1.0.3, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trumbowyg_rails-2.1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trumbowyg_rails-2.1.0.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trumbowyg_rails-2.1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trumbowyg_rails-2.1.0.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="ttfunk (v1.5.1, rbenv: 2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ttfunk-1.5.1/lib" />
