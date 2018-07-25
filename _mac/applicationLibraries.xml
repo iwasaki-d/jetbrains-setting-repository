@@ -30114,6 +30114,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.7.0.beta4, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+      </excluded>
+    </library>
     <library name="ruby-macho (v1.1.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ruby-macho-1.1.0/lib" />
