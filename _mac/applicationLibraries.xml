@@ -10009,6 +10009,75 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/comfortable_mexican_sofa-1.12.10/script" />
       </excluded>
     </library>
+    <library name="comfortable_mexican_sofa (v2.0.15@488a0c, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfortable-mexican-sofa-488a0ccb9163/.github" />
+      </excluded>
+    </library>
+    <library name="comfy_blog (v2.0.6@236840, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/comfy-blog-2368409d0fcf/.github" />
+      </excluded>
+    </library>
     <library name="comfy_bootstrap_form (v4.0.3, rbenv: 2.5.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/comfy_bootstrap_form-4.0.3/lib" />
