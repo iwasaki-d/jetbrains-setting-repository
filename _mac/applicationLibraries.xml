@@ -14133,6 +14133,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/enum_help-0.0.17/lib" />
       </SOURCES>
     </library>
+    <library name="enum_help (v0.0.17, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/enum_help-0.0.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/enum_help-0.0.17/lib" />
+      </SOURCES>
+    </library>
     <library name="enumerize (v1.1.1, rbenv: 2.1.9) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/enumerize-1.1.1/lib" />
