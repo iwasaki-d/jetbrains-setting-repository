@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Ruby/Convert { } to 'do' block" />
-  </component>
-</application>
