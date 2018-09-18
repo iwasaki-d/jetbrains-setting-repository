@@ -23,7 +23,6 @@
   </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="ChangesView.Commit">
@@ -79,7 +78,6 @@
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="GotoFile">
@@ -108,14 +106,16 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="n" />
-    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt at" />
+    <keyboard-shortcut first-keystroke="shift meta at" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="b" />
-    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
