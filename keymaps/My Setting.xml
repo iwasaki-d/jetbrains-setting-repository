@@ -62,6 +62,9 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Rails.SwitchToModel">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -93,4 +96,13 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.UpdateProject" />
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToController">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToHelper">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToView">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
 </keymap>
