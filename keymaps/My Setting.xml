@@ -59,15 +59,15 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta at" />
   </action>
-  <action id="ProjectViewChangeView">
-    <keyboard-shortcut first-keystroke="alt f1" />
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl h" />
