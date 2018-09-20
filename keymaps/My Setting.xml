@@ -47,13 +47,14 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift meta at" />
+    <keyboard-shortcut first-keystroke="meta alt at" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
