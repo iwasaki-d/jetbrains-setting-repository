@@ -38,24 +38,25 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="down" />
   </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="right" />
   </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift meta at" />
     <keyboard-shortcut first-keystroke="meta alt at" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
