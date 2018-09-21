@@ -48,16 +48,20 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="meta alt at" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta at" />
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
