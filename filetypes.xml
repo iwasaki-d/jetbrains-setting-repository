@@ -29,6 +29,7 @@
       <mapping pattern="validators" type="PLAIN_TEXT" />
       <mapping pattern="DatabaseTokenStore" type="PLAIN_TEXT" />
       <mapping pattern="_unit_string" type="PLAIN_TEXT" />
+      <mapping pattern=".env.env" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textaz" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textat" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textal" type="PLAIN_TEXT" />
