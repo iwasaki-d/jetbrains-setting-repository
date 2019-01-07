@@ -10,7 +10,6 @@
       <mapping pattern="eventmachine" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="accepted_notify_line_job" type="PLAIN_TEXT" />
-      <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="av" type="PLAIN_TEXT" />
       <mapping pattern="decodeable" type="PLAIN_TEXT" />
       <mapping pattern="aq" type="PLAIN_TEXT" />
@@ -23,7 +22,6 @@
       <mapping pattern="item_imporable" type="PLAIN_TEXT" />
       <mapping pattern="reqest_searches_form" type="PLAIN_TEXT" />
       <mapping pattern="prodiction" type="PLAIN_TEXT" />
-      <mapping pattern="bx" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbj" type="PLAIN_TEXT" />
       <mapping pattern="stripe_service" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
@@ -46,27 +44,30 @@
       <mapping pattern="_navpills_section" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textaa" type="PLAIN_TEXT" />
       <mapping pattern="SendWorkOrderService" type="PLAIN_TEXT" />
-      <mapping pattern="dam2-textah" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern=".cellar" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.production" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="dj" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="eh" type="PLAIN_TEXT" />
       <mapping pattern="clouldinaries_controller" type="PLAIN_TEXT" />
-      <mapping pattern="cq" type="PLAIN_TEXT" />
+      <mapping pattern="dam2-textah" type="PLAIN_TEXT" />
       <mapping pattern="regist_admin_notice_user_form" type="PLAIN_TEXT" />
       <mapping pattern="cw" type="PLAIN_TEXT" />
       <mapping pattern="home_controller" type="PLAIN_TEXT" />
-      <mapping pattern="CreatePreRegistrationCouponService" type="PLAIN_TEXT" />
+      <mapping pattern="cq" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.staging" type="PLAIN_TEXT" />
       <mapping pattern="SendExpoNotificationService" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
+      <mapping pattern="logout_helper" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
-      <mapping pattern=".cellar" type="PLAIN_TEXT" />
+      <mapping pattern="bx" type="PLAIN_TEXT" />
       <mapping pattern="tel_validator" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
-      <mapping pattern="logout_helper" type="PLAIN_TEXT" />
+      <mapping pattern="CreatePreRegistrationCouponService" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
+      <mapping ext="182" type="PLAIN_TEXT" />
       <mapping ext="153" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -74,15 +75,15 @@
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="177" type="PLAIN_TEXT" />
-      <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="haml2" type="PLAIN_TEXT" />
       <mapping ext="245" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
-      <mapping ext="182" type="PLAIN_TEXT" />
+      <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="31" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping pattern="EventDocument" type="TypeScript" />
       <mapping pattern="GiftImage" type="TypeScript" />
       <mapping pattern="Latitude" type="TypeScript" />
