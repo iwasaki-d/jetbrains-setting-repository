@@ -44,6 +44,7 @@
       <mapping pattern="dam2-textaf" type="PLAIN_TEXT" />
       <mapping pattern="CreatePreRegistrationCouponService" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textaa" type="PLAIN_TEXT" />
+      <mapping pattern="OrderAddresses" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".cellar" type="PLAIN_TEXT" />
@@ -72,19 +73,19 @@
       <mapping pattern="cw" type="PLAIN_TEXT" />
       <mapping pattern="cq" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
-      <mapping ext="182" type="PLAIN_TEXT" />
       <mapping ext="153" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="jd" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
+      <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="haml2" type="PLAIN_TEXT" />
       <mapping ext="245" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
-      <mapping ext="slim_" type="PLAIN_TEXT" />
+      <mapping ext="182" type="PLAIN_TEXT" />
       <mapping ext="31" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
