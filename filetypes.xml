@@ -6,6 +6,7 @@
       <mapping pattern="bx" type="PLAIN_TEXT" />
       <mapping pattern="SendExpoNotificationService" type="PLAIN_TEXT" />
       <mapping pattern="bq" type="PLAIN_TEXT" />
+      <mapping pattern="CallCenterOrderDetailConstants" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.production" type="PLAIN_TEXT" />
       <mapping pattern="be" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
