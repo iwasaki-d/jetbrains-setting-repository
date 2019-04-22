@@ -30,6 +30,7 @@
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="decodeable" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
+      <mapping pattern="prefecture_methods" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbj" type="PLAIN_TEXT" />
       <mapping pattern="index_operatable" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbf" type="PLAIN_TEXT" />
