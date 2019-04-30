@@ -30,6 +30,7 @@
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="decodeable" type="PLAIN_TEXT" />
       <mapping pattern="constants" type="PLAIN_TEXT" />
+      <mapping pattern="request_groups_controller" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
       <mapping pattern="prefecture_methods" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbj" type="PLAIN_TEXT" />
