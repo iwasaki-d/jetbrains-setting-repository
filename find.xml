@@ -16,5 +16,6 @@
     <mask>*.yml</mask>
     <mask>*.haml</mask>
     <mask>*.scss</mask>
+    <mask>*.slim</mask>
   </component>
 </application>
