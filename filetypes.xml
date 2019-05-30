@@ -71,6 +71,7 @@
       <mapping pattern="turbowyg" type="PLAIN_TEXT" />
       <mapping pattern="logout_helper" type="PLAIN_TEXT" />
       <mapping pattern="home_controller" type="PLAIN_TEXT" />
+      <mapping pattern="_not_found_message" type="PLAIN_TEXT" />
       <mapping pattern="eh" type="PLAIN_TEXT" />
       <mapping pattern="clouldinaries_controller" type="PLAIN_TEXT" />
       <mapping pattern="prodiction" type="PLAIN_TEXT" />
