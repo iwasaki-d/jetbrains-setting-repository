@@ -17,5 +17,6 @@
     <mask>*.haml</mask>
     <mask>*.scss</mask>
     <mask>*.slim</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
