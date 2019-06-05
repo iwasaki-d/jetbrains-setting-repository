@@ -20,5 +20,6 @@
     <mask>*.slim</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
