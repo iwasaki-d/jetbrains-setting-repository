@@ -3,19 +3,20 @@
     <extensionMap>
       <mapping pattern="umi" type="PLAIN_TEXT" />
       <mapping pattern="_unit_string" type="PLAIN_TEXT" />
+      <mapping pattern="incoming_controller" type="PLAIN_TEXT" />
       <mapping pattern="bx" type="PLAIN_TEXT" />
       <mapping pattern="SendExpoNotificationService" type="PLAIN_TEXT" />
       <mapping pattern="bq" type="PLAIN_TEXT" />
       <mapping pattern="CallCenterOrderDetailConstants" type="PLAIN_TEXT" />
-      <mapping pattern="constants" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example.production" type="PLAIN_TEXT" />
       <mapping pattern="be" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
       <mapping pattern="av" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="aq" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example.production" type="PLAIN_TEXT" />
       <mapping pattern="af" type="PLAIN_TEXT" />
       <mapping pattern="send_sms_failed_notice_service" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="call_center_monitoring" type="PLAIN_TEXT" />
       <mapping pattern="call_center_user_search" type="PLAIN_TEXT" />
       <mapping pattern="reqest_searches_form" type="PLAIN_TEXT" />
@@ -27,10 +28,12 @@
       <mapping pattern="dam2-textag" type="PLAIN_TEXT" />
       <mapping pattern="_navpills_section" type="PLAIN_TEXT" />
       <mapping pattern="accepted_notify_line_job" type="PLAIN_TEXT" />
+      <mapping pattern="response_statuses_controller" type="PLAIN_TEXT" />
       <mapping pattern="AdSenseTopBanner" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="decodeable" type="PLAIN_TEXT" />
+      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern="request_groups_controller" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
       <mapping pattern="prefecture_methods" type="PLAIN_TEXT" />
@@ -68,11 +71,12 @@
       <mapping pattern="turbowyg" type="PLAIN_TEXT" />
       <mapping pattern="logout_helper" type="PLAIN_TEXT" />
       <mapping pattern="home_controller" type="PLAIN_TEXT" />
+      <mapping pattern="_not_found_message" type="PLAIN_TEXT" />
       <mapping pattern="eh" type="PLAIN_TEXT" />
+      <mapping pattern="clouldinaries_controller" type="PLAIN_TEXT" />
       <mapping pattern="prodiction" type="PLAIN_TEXT" />
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern="dp" type="PLAIN_TEXT" />
-      <mapping pattern="clouldinaries_controller" type="PLAIN_TEXT" />
       <mapping pattern="CallCenterNewForm" type="PLAIN_TEXT" />
       <mapping pattern="dj" type="PLAIN_TEXT" />
       <mapping pattern="cw" type="PLAIN_TEXT" />
@@ -83,10 +87,12 @@
       <mapping ext="182" type="PLAIN_TEXT" />
       <mapping ext="153" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="jd" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
+      <mapping ext="tb" type="PLAIN_TEXT" />
       <mapping ext="haml2" type="PLAIN_TEXT" />
       <mapping ext="245" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />

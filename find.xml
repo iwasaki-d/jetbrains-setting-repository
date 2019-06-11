@@ -12,9 +12,13 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.haml</mask>
     <mask>*.scss</mask>
+    <mask>*.slim</mask>
+    <mask>*.vue</mask>
+    <mask>*.js</mask>
+    <mask>*.rb</mask>
+    <mask>*.*css</mask>
   </component>
 </application>
