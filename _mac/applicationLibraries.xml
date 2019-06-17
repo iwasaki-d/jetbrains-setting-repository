@@ -15024,6 +15024,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootstrap-sass-3.4.1/templates" />
       </excluded>
     </library>
+    <library name="bootstrap-select-rails (v1.13.8, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-select-rails-1.13.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-select-rails-1.13.8/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-select-rails-1.13.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bootstrap-select-rails-1.13.8/vendor" />
+      </SOURCES>
+    </library>
     <library name="bootstrap-will_paginate (v1.0.0, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
