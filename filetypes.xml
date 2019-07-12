@@ -33,7 +33,6 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="decodeable" type="PLAIN_TEXT" />
-      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern="request_groups_controller" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
       <mapping pattern="prefecture_methods" type="PLAIN_TEXT" />
@@ -63,6 +62,7 @@
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="regist_admin_notice_user_form" type="PLAIN_TEXT" />
+      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern="DatabaseTokenStore" type="PLAIN_TEXT" />
       <mapping pattern="item_imporable" type="PLAIN_TEXT" />
       <mapping pattern="eventmachine" type="PLAIN_TEXT" />
@@ -79,15 +79,16 @@
       <mapping pattern="dp" type="PLAIN_TEXT" />
       <mapping pattern="CallCenterNewForm" type="PLAIN_TEXT" />
       <mapping pattern="dj" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="cw" type="PLAIN_TEXT" />
       <mapping pattern="PropertyNoValidator" type="PLAIN_TEXT" />
       <mapping pattern="cq" type="PLAIN_TEXT" />
       <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
-      <mapping ext="182" type="PLAIN_TEXT" />
-      <mapping ext="153" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="153" type="PLAIN_TEXT" />
+      <mapping ext="48" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="jd" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
@@ -95,9 +96,10 @@
       <mapping ext="tb" type="PLAIN_TEXT" />
       <mapping ext="haml2" type="PLAIN_TEXT" />
       <mapping ext="245" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="182" type="PLAIN_TEXT" />
       <mapping ext="31" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
