@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="5000" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
