@@ -21,7 +21,6 @@
       <mapping pattern="accepted_notify_line_job" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="turbowyg" type="PLAIN_TEXT" />
-      <mapping pattern="OrderAddresses" type="PLAIN_TEXT" />
       <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbj" type="PLAIN_TEXT" />
       <mapping pattern="dam2-textbf" type="PLAIN_TEXT" />
@@ -49,6 +48,7 @@
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern="home_controller" type="PLAIN_TEXT" />
       <mapping pattern="validators" type="PLAIN_TEXT" />
+      <mapping pattern="OrderAddresses" type="PLAIN_TEXT" />
       <mapping pattern="umi" type="PLAIN_TEXT" />
       <mapping pattern=".dev.env" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
