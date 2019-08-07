@@ -33,6 +33,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="decodeable" type="PLAIN_TEXT" />
+      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern="request_groups_controller" type="PLAIN_TEXT" />
       <mapping pattern="fields" type="PLAIN_TEXT" />
       <mapping pattern="prefecture_methods" type="PLAIN_TEXT" />
@@ -62,7 +63,6 @@
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="regist_admin_notice_user_form" type="PLAIN_TEXT" />
-      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern="DatabaseTokenStore" type="PLAIN_TEXT" />
       <mapping pattern="item_imporable" type="PLAIN_TEXT" />
       <mapping pattern="eventmachine" type="PLAIN_TEXT" />
@@ -85,7 +85,7 @@
       <mapping pattern="cq" type="PLAIN_TEXT" />
       <mapping ext="slim_" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="182" type="PLAIN_TEXT" />
       <mapping ext="153" type="PLAIN_TEXT" />
       <mapping ext="48" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
@@ -96,10 +96,9 @@
       <mapping ext="tb" type="PLAIN_TEXT" />
       <mapping ext="haml2" type="PLAIN_TEXT" />
       <mapping ext="245" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
-      <mapping ext="182" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="31" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
@@ -118,10 +117,9 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <mapping ext="csv" type="TSLint" />
       <mapping pattern=".keep" type="TSLint" />
     </extensionMap>
   </component>
