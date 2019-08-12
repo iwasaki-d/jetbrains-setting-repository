@@ -8764,13 +8764,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/spec" />
@@ -8785,11 +8783,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/spec" />
@@ -10810,6 +10810,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/capistrano-yarn-2.0.2/lib" />
       </SOURCES>
+    </library>
+    <library name="capistrano3-monit (v0.4.0@32e634, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/capistrano3-monit-32e63474d6d0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/capistrano3-monit-32e63474d6d0/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/capistrano3-monit-32e63474d6d0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/capistrano3-monit-32e63474d6d0/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/capistrano3-monit-32e63474d6d0/.git" />
+      </excluded>
     </library>
     <library name="capistrano3-ridgepole (v0.0.4, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
@@ -16670,13 +16686,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/samples" />
@@ -16760,11 +16774,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/samples" />
@@ -24636,7 +24652,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/lib" />
@@ -24644,7 +24659,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/lib" />
@@ -24713,6 +24727,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/lib" />
@@ -24722,6 +24737,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/lib" />
@@ -24882,6 +24898,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.4/lib" />
@@ -24891,6 +24908,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.4/lib" />
@@ -32448,11 +32466,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rugged/0.27.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rugged-0.27.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rugged-0.27.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rugged-0.27.4/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rugged/0.27.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rugged-0.27.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rugged-0.27.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rugged-0.27.4/vendor" />
@@ -37417,10 +37437,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
