@@ -43,9 +43,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="right" />
   </action>
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
-  </action>
+  <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt p" />
