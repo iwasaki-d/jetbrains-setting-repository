@@ -37961,6 +37961,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/gemfiles" />
       </excluded>
     </library>
+    <library name="webpacker (v4.0.7, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/package" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/package" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/package" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/webpacker-4.0.7/gemfiles" />
+      </excluded>
+    </library>
     <library name="webpacker (v4.0.7@8845f3, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
