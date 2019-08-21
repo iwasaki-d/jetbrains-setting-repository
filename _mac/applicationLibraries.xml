@@ -20987,6 +20987,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/docile-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="docile (v1.3.2, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/docile-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/docile-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20170404, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -29032,6 +29043,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/hashdiff-0.3.8/spec" />
       </excluded>
     </library>
+    <library name="hashdiff (v0.4.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/hashdiff-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/hashdiff-0.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/hashdiff-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/hashdiff-0.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/hashdiff-0.4.0/spec" />
+      </excluded>
+    </library>
     <library name="hashery (v2.1.2, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30388,6 +30415,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.2/ext" />
+      </excluded>
+    </library>
+    <library name="jaro_winkler (v1.5.3, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.3" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.3" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/ext" />
       </excluded>
     </library>
     <library name="jb (v0.5.0, rbenv: 2.4.1) [gem]" type="rubylib">
@@ -37820,6 +37865,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.6.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.6.0.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/parser-2.6.0.0/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.6.3.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/parser-2.6.3.0/test" />
       </excluded>
     </library>
     <library name="parser (v2.6.3.0, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -45925,6 +45995,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/exe" />
       </excluded>
     </library>
+    <library name="rspec-core (v3.8.2, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-core-3.8.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-core-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-core-3.8.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-core-3.8.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-core-3.8.2/exe" />
+      </excluded>
+    </library>
     <library name="rspec-expectations (v3.5.0, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -46068,6 +46154,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.8.4, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-expectations-3.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-expectations-3.8.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-its (v1.2.0, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -46087,6 +46184,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/script" />
+      </excluded>
+    </library>
+    <library name="rspec-its (v1.3.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-its-1.3.0/script" />
       </excluded>
     </library>
     <library name="rspec-mocks (v3.5.0, rbenv: 2.4.1) [gem]" type="rubylib">
@@ -46197,6 +46315,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.8.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-mocks-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-mocks-3.8.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.5.2, rbenv: 2.4.1) [gem]" type="rubylib">
@@ -46461,6 +46590,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-support-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.2, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-support-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rspec-support-3.8.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec_junit_formatter (v0.4.1, rbenv: 2.5.1) [gem]" type="rubylib">
