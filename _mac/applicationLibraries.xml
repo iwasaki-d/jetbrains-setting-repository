@@ -1939,6 +1939,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-import-0.25.0/benchmarks" />
       </excluded>
     </library>
+    <library name="activerecord-mysql2spatial-adapter (v0.5.0.nonrelease@c86556, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-mysql2spatial-adapter-c86556a0c90c/test" />
+      </excluded>
+    </library>
     <library name="activerecord-postgis-adapter (v5.1.0, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3666,6 +3685,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/arel-9.0.0/lib" />
       </SOURCES>
+    </library>
+    <library name="armg (v0.7.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/armg-0.7.1/gemfiles" />
+      </excluded>
     </library>
     <library name="Ascii85 (v1.0.3, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
@@ -48129,6 +48167,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rgeo-2.0.1/ext" />
+      </excluded>
+    </library>
+    <library name="rgeo (v2.1.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rgeo/2.1.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rgeo-2.1.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rgeo-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rgeo/2.1.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rgeo-2.1.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rgeo-2.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rgeo-2.1.1/ext" />
       </excluded>
     </library>
     <library name="rgeo-activerecord (v6.0.0, rbenv: 2.4.1) [gem]" type="rubylib">
