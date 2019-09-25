@@ -11,15 +11,15 @@
       <mapping pattern="app_sync_client" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
-      <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="188" type="PLAIN_TEXT" />
       <mapping ext="29" type="PLAIN_TEXT" />
+      <mapping ext="staging" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
