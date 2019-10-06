@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="app_sync_client" type="PLAIN_TEXT" />
+      <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
       <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
