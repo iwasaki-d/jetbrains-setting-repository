@@ -16,6 +16,7 @@
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="118" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="188" type="PLAIN_TEXT" />
