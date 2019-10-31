@@ -21840,6 +21840,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="crass (v1.0.5, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/crass-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/crass-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="css_parser (v1.6.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -42736,6 +42747,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.1.1/test" />
       </excluded>
     </library>
+    <library name="public_suffix (v4.0.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/.github" />
+      </excluded>
+    </library>
     <library name="puma (v3.10.0, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -46028,6 +46064,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.2/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.3, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.3, rbenv: 2.5.1) [gem]" type="rubylib">
