@@ -21,9 +21,10 @@
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="188" type="PLAIN_TEXT" />
       <mapping ext="29" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="CscartOrder" type="TypeScript" />
       <mapping pattern="AppSyncRequestConstant" type="TypeScript" />
       <mapping pattern="ManagementDbClient" type="TypeScript" />
       <mapping pattern="CancelOrderSqsBodyJson" type="TypeScript" />
