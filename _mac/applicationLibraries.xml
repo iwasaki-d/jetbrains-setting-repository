@@ -259,6 +259,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0/config" />
       </excluded>
     </library>
+    <library name="actionmailer (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/actionmailer-4.2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/actionmailer-4.2.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -455,6 +466,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailer-6.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/actionpack-4.2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/actionpack-4.2.11.1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
@@ -683,6 +705,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0/db" />
       </excluded>
+    </library>
+    <library name="actionview (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/actionview-4.2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/actionview-4.2.11.1/lib" />
+      </SOURCES>
     </library>
     <library name="actionview (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
@@ -1156,6 +1189,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activeadmin-1.4.3/.circleci" />
       </excluded>
     </library>
+    <library name="activejob (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activejob-4.2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activejob-4.2.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1352,6 +1396,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activejob-6.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activemodel-4.2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activemodel-4.2.11.1/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
@@ -1562,6 +1617,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activemodel-6.0.0/lib" />
       </SOURCES>
+    </library>
+    <library name="activerecord (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activerecord-4.2.11.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activerecord-4.2.11.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activerecord-4.2.11.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activerecord-4.2.11.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activerecord-4.2.11.1/examples" />
+      </excluded>
     </library>
     <library name="activerecord (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
@@ -2214,6 +2285,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-4.2.10/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activesupport-4.2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/activesupport-4.2.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2721,6 +2803,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/addressable-2.6.0/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/addressable-2.6.0/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/addressable-2.6.0/tasks" />
+      </excluded>
+    </library>
+    <library name="addressable (v2.7.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/addressable-2.7.0/tasks" />
       </excluded>
     </library>
     <library name="administrate (v0.10.0, rbenv: 2.5.1) [gem]" type="rubylib">
@@ -4496,6 +4600,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-9.6.1.1/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-9.6.1.1/.github" />
+      </excluded>
+    </library>
+    <library name="autoprefixer-rails (v9.7.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/autoprefixer-rails-9.7.0/.github" />
       </excluded>
     </library>
     <library name="awesome_print (v1.8.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
@@ -15981,13 +16106,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.12/spec" />
@@ -16021,13 +16144,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/spec" />
@@ -16082,11 +16203,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/bcrypt-3.1.13/spec" />
@@ -16318,13 +16441,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/test" />
@@ -16415,12 +16536,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/binding_of_caller-0.7.2/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/binding_of_caller-0.7.2/test" />
@@ -16568,13 +16691,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.0/lib" />
@@ -18072,14 +18193,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/cairo/1.15.13" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/cairo-1.15.13/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/cairo-1.15.13/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/cairo-1.15.13/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/cairo-1.15.13/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/cairo/1.15.13" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/cairo-1.15.13/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/cairo-1.15.13/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/cairo-1.15.13/test" />
@@ -21848,6 +21967,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="crass (v1.0.5, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/crass-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/crass-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="css_parser (v1.6.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -23625,6 +23755,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.0/test" />
       </excluded>
     </library>
+    <library name="dkim (v1.0.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dkim-1.0.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="docile (v1.3.1, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -24497,6 +24649,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dry-core-0.4.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-core (v0.4.9, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dry-core-0.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/dry-core-0.4.9/lib" />
       </SOURCES>
     </library>
     <library name="dry-equalizer (v0.2.0, rbenv: 2.4.1) [gem]" type="rubylib">
@@ -27296,11 +27459,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.11.1/samples" />
@@ -27447,11 +27612,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/ffi-1.9.25/samples" />
@@ -27485,13 +27652,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/samples" />
@@ -29861,13 +30026,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gio2/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gio2-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gio2-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gio2-3.1.8/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gio2/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gio2-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gio2-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gio2-3.1.8/test" />
@@ -29974,14 +30137,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/glib2/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/glib2-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/glib2-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/glib2-3.1.8/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/glib2-3.1.8/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/glib2/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/glib2-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/glib2-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/glib2-3.1.8/test" />
@@ -30220,13 +30381,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gobject-introspection/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gobject-introspection-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gobject-introspection-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gobject-introspection-3.1.8/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gobject-introspection/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gobject-introspection-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gobject-introspection-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gobject-introspection-3.1.8/test" />
@@ -32063,6 +32222,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-5.4.0/test" />
       </excluded>
     </library>
+    <library name="holidays (v7.1.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/holidays-7.1.0/test" />
+      </excluded>
+    </library>
     <library name="html2haml (v2.2.0, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -33174,12 +33355,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
@@ -33210,10 +33389,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
@@ -34315,40 +34496,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-activerecord" />
       </excluded>
     </library>
-    <library name="kaminari (v1.1.1@0ff8c3, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/misc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-actionview" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-activerecord" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/misc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-actionview" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-activerecord" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/misc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-actionview" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-activerecord" />
-      </excluded>
-    </library>
     <library name="kaminari (v1.1.1@8e3b9d, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34381,40 +34528,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/kaminari-8e3b9db8e8d6/kaminari-core" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/kaminari-8e3b9db8e8d6/kaminari-actionview" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/kaminari-8e3b9db8e8d6/kaminari-activerecord" />
-      </excluded>
-    </library>
-    <library name="kaminari (v1.1.1@c7d19f, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/misc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-actionview" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-activerecord" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/misc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-actionview" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-activerecord" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/misc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-actionview" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-activerecord" />
       </excluded>
     </library>
     <library name="kaminari-actionview (v1.0.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
@@ -34505,17 +34618,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-actionview/lib" />
       </SOURCES>
     </library>
-    <library name="kaminari-actionview (v1.1.1@0ff8c3, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-actionview/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-actionview/lib" />
-      </SOURCES>
-    </library>
     <library name="kaminari-actionview (v1.1.1@8e3b9d, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34525,17 +34627,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/kaminari-8e3b9db8e8d6/kaminari-actionview/lib" />
-      </SOURCES>
-    </library>
-    <library name="kaminari-actionview (v1.1.1@c7d19f, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-actionview/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-actionview/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-activerecord (v1.0.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
@@ -34626,17 +34717,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-activerecord/lib" />
       </SOURCES>
     </library>
-    <library name="kaminari-activerecord (v1.1.1@0ff8c3, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-activerecord/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-activerecord/lib" />
-      </SOURCES>
-    </library>
     <library name="kaminari-activerecord (v1.1.1@8e3b9d, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34646,17 +34726,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/kaminari-8e3b9db8e8d6/kaminari-activerecord/lib" />
-      </SOURCES>
-    </library>
-    <library name="kaminari-activerecord (v1.1.1@c7d19f, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-activerecord/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-activerecord/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-core (v1.0.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
@@ -34812,27 +34881,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/config" />
       </excluded>
     </library>
-    <library name="kaminari-core (v1.1.1@0ff8c3, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-0ff8c3094d72/kaminari-core/config" />
-      </excluded>
-    </library>
     <library name="kaminari-core (v1.1.1@8e3b9d, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34852,27 +34900,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/kaminari-8e3b9db8e8d6/kaminari-core/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/kaminari-8e3b9db8e8d6/kaminari-core/config" />
-      </excluded>
-    </library>
-    <library name="kaminari-core (v1.1.1@c7d19f, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/app" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/kaminari-c7d19fa403a8/kaminari-core/config" />
       </excluded>
     </library>
     <library name="kaminari-i18n (v0.5.0, rbenv: 2.5.1) [gem]" type="rubylib">
@@ -34962,14 +34989,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/kgio-2.11.2/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/kgio-2.11.2/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/kgio-2.11.2/test" />
@@ -36146,6 +36171,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/loofah-2.2.3/benchmark" />
       </excluded>
     </library>
+    <library name="loofah (v2.3.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/loofah-2.3.1/benchmark" />
+      </excluded>
+    </library>
     <library name="lumberjack (v1.0.12, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -36944,6 +36988,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/mime-types-3.2.2/test" />
       </excluded>
     </library>
+    <library name="mime-types (v3.3, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-3.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-3.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-3.3/test" />
+      </excluded>
+    </library>
     <library name="mime-types-data (v3.2016.0521, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -37101,6 +37161,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2019.0331/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2019.0331/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2019.1009, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/mime-types-data-3.2019.1009/types" />
       </excluded>
     </library>
     <library name="mimemagic (v0.3.2, rbenv: 2.4.1) [gem]" type="rubylib">
@@ -37807,6 +37886,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.12.2, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/minitest-5.12.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/minitest-5.12.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/minitest-5.12.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/minitest-5.12.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/minitest-5.12.2/test" />
+      </excluded>
+    </library>
     <library name="minitest (v5.8.3, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -38132,7 +38227,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/msgpack-1.2.4/spec" />
@@ -38140,7 +38234,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/msgpack-1.2.4/spec" />
@@ -38340,6 +38433,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.14.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/multi_json-1.14.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/multi_json-1.14.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.6.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
@@ -39278,7 +39382,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/spec" />
@@ -39286,7 +39389,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/spec" />
@@ -39457,6 +39559,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/lib" />
@@ -39464,6 +39567,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.3/lib" />
@@ -39529,6 +39633,33 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/patches" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.10.4, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/ports" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/ports" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/ports" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.10.4/patches" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.4, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -39559,7 +39690,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/lib" />
@@ -39569,7 +39699,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/nokogiri-1.8.0/lib" />
@@ -39728,7 +39857,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/lib" />
@@ -39739,7 +39867,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/lib" />
@@ -41107,13 +41234,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.0.0/spec" />
@@ -41375,14 +41500,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/poppler/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/poppler-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/poppler-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/poppler-3.1.8/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/poppler-3.1.8/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/poppler/3.1.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/poppler-3.1.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/poppler-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/poppler-3.1.8/test" />
@@ -42756,6 +42879,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/public_suffix-3.1.1/test" />
       </excluded>
     </library>
+    <library name="public_suffix (v4.0.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/public_suffix-4.0.1/.github" />
+      </excluded>
+    </library>
     <library name="puma (v3.10.0, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -42961,7 +43109,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.11.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.11.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.11.4/lib" />
@@ -42969,7 +43116,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.11.4/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.11.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.11.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.11.4/lib" />
@@ -44287,6 +44433,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.1/test" />
       </excluded>
     </library>
+    <library name="rails (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-4.2.11.1/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-4.2.11.1/guides" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-4.2.11.1/guides" />
+      </excluded>
+    </library>
     <library name="rails (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -44444,6 +44604,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.0/test" />
+      </excluded>
+    </library>
+    <library name="rails-api (v0.4.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-api-0.4.1/test" />
       </excluded>
     </library>
     <library name="rails-assets-es6-promise (v4.1.1, rbenv: 2.4.1) [gem]" type="rubylib">
@@ -44895,6 +45074,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-html-sanitizer-1.2.0/test" />
       </excluded>
     </library>
+    <library name="rails-html-sanitizer (v1.3.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-html-sanitizer-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-html-sanitizer-1.3.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-html-sanitizer-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-html-sanitizer-1.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rails-html-sanitizer-1.3.0/test" />
+      </excluded>
+    </library>
     <library name="rails-i18n (v5.1.1, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45222,6 +45417,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rails_stdout_logging-0.0.5/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rails_stdout_logging-0.0.5/gemfiles" />
+      </excluded>
+    </library>
+    <library name="railties (v4.2.11.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/railties-4.2.11.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/railties-4.2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/railties-4.2.11.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/railties-4.2.11.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/railties-4.2.11.1/bin" />
       </excluded>
     </library>
     <library name="railties (v4.2.7.1, rbenv: 2.3.0) [gem]" type="rubylib">
@@ -45666,7 +45877,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/raindrops-0.19.0/test" />
@@ -45674,7 +45884,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/raindrops-0.19.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/raindrops-0.19.0/test" />
@@ -46054,6 +46263,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.2/exe" />
       </excluded>
     </library>
+    <library name="rake (v12.3.3, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rake-12.3.3/exe" />
+      </excluded>
+    </library>
     <library name="rake (v12.3.3, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -46338,11 +46569,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rb-fsevent-0.10.3/lib" />
@@ -46376,13 +46609,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
@@ -47473,6 +47704,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/redis-rack-2.0.5/gemfiles" />
       </excluded>
     </library>
+    <library name="redis-rack (v2.0.6, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/redis-rack-2.0.6/gemfiles" />
+      </excluded>
+    </library>
     <library name="redis-rack-cache (v2.0.2, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -48491,7 +48747,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rmagick/2.16.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rmagick-2.16.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rmagick-2.16.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rmagick-2.16.0/lib" />
@@ -48501,7 +48756,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rmagick-2.16.0/deprecated" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rmagick/2.16.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rmagick-2.16.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rmagick-2.16.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rmagick-2.16.0/lib" />
@@ -48788,6 +49042,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-0.10.1/test" />
       </excluded>
     </library>
+    <library name="rqrcode (v1.1.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/images" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/images" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/images" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-1.1.1/.github" />
+      </excluded>
+    </library>
     <library name="rqrcode-rails3 (v0.1.7, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -48809,6 +49085,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode-rails3-0.1.7/lib" />
       </SOURCES>
+    </library>
+    <library name="rqrcode_core (v0.1.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode_core-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode_core-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode_core-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode_core-0.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/rqrcode_core-0.1.0/bin" />
+      </excluded>
     </library>
     <library name="rspec (v3.5.0, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
@@ -54104,6 +54396,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/temple-0.8.1/test" />
       </excluded>
     </library>
+    <library name="temple (v0.8.2, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/temple-0.8.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/temple-0.8.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/temple-0.8.2/test" />
+      </excluded>
+    </library>
     <library name="terminal-table (v1.8.0, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -55971,6 +56279,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.1.0/spec" />
       </excluded>
     </library>
+    <library name="unicode-emoji (v2.3.1, rbenv: 2.3.0, ukokkei) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/gemsets/ukokkei/gems/unicode-emoji-2.3.1/spec" />
+      </excluded>
+    </library>
     <library name="unicode_utils (v1.4.0, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -56069,7 +56396,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/unicorn/5.4.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/t" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/ext" />
@@ -56081,7 +56407,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/Documentation" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/unicorn/5.4.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/t" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/ext" />
@@ -57406,34 +57731,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/webpacker-4.0.2/gemfiles" />
       </excluded>
     </library>
-    <library name="webpacker (v4.0.2@238733, rbenv: 2.5.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/docs" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/package" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/docs" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/package" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/gemfiles" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/docs" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/test" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/package" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/webpacker-2387331b33c6/gemfiles" />
-      </excluded>
-    </library>
     <library name="webpacker (v4.0.7, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -57615,12 +57912,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
