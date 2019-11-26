@@ -1,15 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="app_sync_client" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
+      <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
-      <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
@@ -21,11 +19,11 @@
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="188" type="PLAIN_TEXT" />
       <mapping ext="29" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="CscartOrder" type="TypeScript" />
       <mapping pattern="AppSyncRequestConstant" type="TypeScript" />
+      <mapping pattern="CscartOrder" type="TypeScript" />
       <mapping pattern="ManagementDbClient" type="TypeScript" />
       <mapping pattern="CancelOrderSqsBodyJson" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
