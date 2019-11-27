@@ -10,6 +10,9 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
+      <mapping pattern=".anycarry-expo-env" type="PLAIN_TEXT" />
+      <mapping pattern="anycarry-dev-amplify-inputs" type="PLAIN_TEXT" />
+      <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
