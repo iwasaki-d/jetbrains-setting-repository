@@ -7,6 +7,7 @@
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
