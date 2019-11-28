@@ -9,6 +9,7 @@
       <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_old3" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfileold" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-amplify-init-env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_old" type="PLAIN_TEXT" />
