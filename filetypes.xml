@@ -11,6 +11,7 @@
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfileold" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-amplify-init-env" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_old" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-expo-env" type="PLAIN_TEXT" />
       <mapping pattern="anycarry-dev-amplify-inputs" type="PLAIN_TEXT" />
