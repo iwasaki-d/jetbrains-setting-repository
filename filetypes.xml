@@ -10,19 +10,20 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
       <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
+      <mapping pattern="Aptfile" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
-      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="118" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="188" type="PLAIN_TEXT" />
       <mapping ext="29" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="CscartOrder" type="TypeScript" />
       <mapping pattern="AppSyncRequestConstant" type="TypeScript" />
