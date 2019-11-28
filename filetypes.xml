@@ -13,6 +13,7 @@
       <mapping pattern=".anycarry-dev-amplify-init-env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_old" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfilenode" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-expo-env" type="PLAIN_TEXT" />
       <mapping pattern="anycarry-dev-amplify-inputs" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
