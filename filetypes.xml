@@ -28,6 +28,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="AppSyncRequestConstant" type="TypeScript" />
       <mapping pattern="ManagementDbClient" type="TypeScript" />
+      <mapping pattern="OrderDocumentData" type="TypeScript" />
       <mapping pattern="CscartOrder" type="TypeScript" />
       <mapping pattern="CancelOrderSqsBodyJson" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
