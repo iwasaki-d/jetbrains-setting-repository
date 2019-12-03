@@ -9,6 +9,7 @@
       <mapping pattern="practice" type="PLAIN_TEXT" />
       <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_old5" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_production" type="PLAIN_TEXT" />
       <mapping pattern=".firebase.sample" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
