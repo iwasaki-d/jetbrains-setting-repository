@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="app_sync_client" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="practice" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_development" type="PLAIN_TEXT" />
       <mapping pattern="staging_mofmof" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_old5" type="PLAIN_TEXT" />
@@ -30,10 +30,10 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="AppSyncRequestConstant" type="TypeScript" />
-      <mapping pattern="ManagementDbClient" type="TypeScript" />
       <mapping pattern="OrderDocumentData" type="TypeScript" />
       <mapping pattern="CscartOrder" type="TypeScript" />
+      <mapping pattern="AppSyncRequestConstant" type="TypeScript" />
+      <mapping pattern="ManagementDbClient" type="TypeScript" />
       <mapping pattern="CancelOrderSqsBodyJson" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
