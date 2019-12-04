@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="app_sync_client" type="PLAIN_TEXT" />
@@ -15,12 +13,12 @@
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="118" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
-      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="188" type="PLAIN_TEXT" />
       <mapping ext="29" type="PLAIN_TEXT" />
