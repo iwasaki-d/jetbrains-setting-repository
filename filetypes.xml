@@ -31,10 +31,10 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="OrderDocumentData" type="TypeScript" />
+      <mapping pattern="CscartOrder" type="TypeScript" />
       <mapping pattern="AppSyncRequestConstant" type="TypeScript" />
       <mapping pattern="ManagementDbClient" type="TypeScript" />
-      <mapping pattern="CscartOrder" type="TypeScript" />
+      <mapping pattern="OrderDocumentData" type="TypeScript" />
       <mapping pattern="RefreshOrderFunctions" type="TypeScript" />
       <mapping pattern="CancelOrderSqsBodyJson" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
