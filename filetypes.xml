@@ -1,14 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" type=".env file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_pgdata" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".docker_env" type="PLAIN_TEXT" />
+      <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_bastion_server" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" type=".env file" />
     </extensionMap>
   </component>
 </application>
