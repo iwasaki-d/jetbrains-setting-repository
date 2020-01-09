@@ -10,9 +10,9 @@
       <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern=".docker_env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_bastion_server" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="production" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
