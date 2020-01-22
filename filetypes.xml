@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
+      <mapping pattern="dsad" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_pgdata" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
