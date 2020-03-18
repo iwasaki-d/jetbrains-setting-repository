@@ -9,6 +9,7 @@
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
+      <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern=".docker_env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_bastion_server" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_dev_ukokkei" type="PLAIN_TEXT" />
