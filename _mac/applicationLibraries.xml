@@ -1171,11 +1171,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/bcrypt-3.1.13/spec" />
@@ -4359,11 +4361,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.9.25" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.9.25" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/ffi-1.9.25/samples" />
@@ -6501,6 +6505,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/json-1.8.6/data" />
@@ -6510,6 +6515,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/json-1.8.6/data" />
@@ -8465,12 +8471,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/nokogiri-1.10.4/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/nokogiri-1.10.4/lib" />
@@ -8591,11 +8599,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/oj/2.18.5" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/oj-2.18.5/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/oj-2.18.5/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/oj-2.18.5/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/oj/2.18.5" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/oj-2.18.5/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/oj-2.18.5/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/oj-2.18.5/test" />
@@ -8853,12 +8863,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/pg/0.17.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/pg-0.17.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/pg-0.17.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/pg-0.17.1/spec" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/pg-0.17.1/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/pg/0.17.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/pg-0.17.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/pg-0.17.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/pg-0.17.1/spec" />
@@ -10501,11 +10513,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.3/ruby_stubs/-577765442/bundle/gems/rb-fsevent-0.10.3/lib" />
