@@ -17,6 +17,7 @@
       <mapping pattern="id_rsa_dev_ukokkei" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="142" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="78" type="PLAIN_TEXT" />
