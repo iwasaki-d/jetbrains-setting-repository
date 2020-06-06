@@ -21,6 +21,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="78" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="144" type="PLAIN_TEXT" />
       <mapping ext="ex;ljs" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
