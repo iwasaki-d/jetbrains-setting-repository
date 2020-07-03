@@ -14,6 +14,7 @@
       <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".docker_env" type="PLAIN_TEXT" />
+      <mapping pattern="favy_development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="dsad" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
@@ -27,6 +28,7 @@
       <mapping ext="ex;ljs" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
+      <mapping ext="182" type="PLAIN_TEXT" />
       <mapping ext="225" type="PLAIN_TEXT" />
       <mapping pattern="UpsertDeeasRequestWebhookUtls" type="TypeScript" />
       <mapping pattern="ApiGatawayLambdaResponse" type="TypeScript" />
