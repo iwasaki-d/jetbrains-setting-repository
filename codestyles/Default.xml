@@ -40,7 +40,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="SPACE_BEFORE_METHOD_LBRACE" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
