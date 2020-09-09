@@ -35,6 +35,7 @@
       <mapping ext="78" type="PLAIN_TEXT" />
       <mapping pattern="UpsertDeeasRequestWebhookUtls" type="TypeScript" />
       <mapping pattern="ApiGatawayLambdaResponse" type="TypeScript" />
+      <mapping pattern="UpdateOrderStatus" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
