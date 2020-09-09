@@ -11,7 +11,6 @@
       <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern=".env.develoment" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_pgdata" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -35,7 +34,6 @@
       <mapping ext="78" type="PLAIN_TEXT" />
       <mapping pattern="UpsertDeeasRequestWebhookUtls" type="TypeScript" />
       <mapping pattern="ApiGatawayLambdaResponse" type="TypeScript" />
-      <mapping pattern="UpdateOrderStatus" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
