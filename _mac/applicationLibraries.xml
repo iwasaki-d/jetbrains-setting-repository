@@ -1328,18 +1328,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/exe" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/man" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/exe" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/man" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/man" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/exe" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/usr/local/lib/ruby/gems/2.5.0/gems/rubygems-update-3.0.3/bundler/man" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/-2008530720/bundle/gems/bundler-1.17.3/man" />
       </excluded>
     </library>
     <library name="bundler (v1.17.3, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
