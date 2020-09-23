@@ -24,8 +24,8 @@
       <mapping ext="142" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="225" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="228" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
