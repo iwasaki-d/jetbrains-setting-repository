@@ -11,21 +11,20 @@
       <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern=".env.develoment" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_pgdata" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="request_type_controller.rb" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_development_ old" type="PLAIN_TEXT" />
-      <mapping pattern="tehairobo" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
       <mapping ext="ex;ljs" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="142" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="225" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="225" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="228" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
