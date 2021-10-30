@@ -1,25 +1,25 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".docker_env" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_bastion_server" type="PLAIN_TEXT" />
-      <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="dsad" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_dev_ukokkei" type="PLAIN_TEXT" />
-      <mapping pattern="production_admin" type="PLAIN_TEXT" />
-      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_backend" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
-      <mapping pattern=".env.develoment" type="PLAIN_TEXT" />
-      <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_pgdata" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="request_type_controller.rb" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.develoment" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern="production_admin" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_bastion_server" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_backend" type="PLAIN_TEXT" />
+      <mapping pattern="dsad" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".docker_env" type="PLAIN_TEXT" />
+      <mapping pattern="request_type_controller.rb" type="PLAIN_TEXT" />
+      <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
       <mapping ext="ex;ljs" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="142" type="PLAIN_TEXT" />
