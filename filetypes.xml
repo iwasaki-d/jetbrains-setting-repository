@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_pgdata" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_dev_ukokkei" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_pgdata" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern=".env.develoment" type="PLAIN_TEXT" />
