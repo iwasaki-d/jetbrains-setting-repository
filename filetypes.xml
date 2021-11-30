@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Dockerfile_development" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile_mcd_development" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
