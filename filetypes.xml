@@ -24,6 +24,7 @@
       <mapping pattern="dsad" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".docker_env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.mcd.development_bk" type="PLAIN_TEXT" />
       <mapping pattern=".mcd-dev-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern="request_type_controller.rb" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
