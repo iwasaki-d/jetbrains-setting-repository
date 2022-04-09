@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile_development" type="AUTO_DETECTED" />
       <mapping pattern="mcd-dev-amplify-env" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile_mcd_development" type="AUTO_DETECTED" />
+      <mapping pattern="exec-port-forwading" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".mcd-stg-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
