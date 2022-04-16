@@ -21,6 +21,7 @@
       <mapping pattern="production_admin" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_bastion_server" type="PLAIN_TEXT" />
+      <mapping pattern=".mcd-prd-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern=".env.mcd.test" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
