@@ -16,6 +16,7 @@
       <mapping pattern=".env.eas. production" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-enterprise-env" type="PLAIN_TEXT" />
       <mapping pattern=".parameters. prod.properties" type="PLAIN_TEXT" />
+      <mapping pattern=".parameters.stg.properties" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-dev-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern=".parameters.v2.prod.properties" type="PLAIN_TEXT" />
@@ -37,6 +38,7 @@
       <mapping pattern=".mcd-dev-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern="request_type_controller.rb" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
+      <mapping pattern=".anycarry-stg-enterprise-env" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="ex;ljs" type="PLAIN_TEXT" />
