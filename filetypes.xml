@@ -42,6 +42,7 @@
       <mapping pattern="request_type_controller.rb" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-prod-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern=".anycarry-stg-enterprise-env" type="PLAIN_TEXT" />
+      <mapping pattern=".anycarry-prod-enterprise-env" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="ex;ljs" type="PLAIN_TEXT" />
