@@ -29,8 +29,10 @@
       <mapping pattern="Dockerfile_bastion_server" type="PLAIN_TEXT" />
       <mapping pattern=".mcd-prd-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_elasticsearch" type="PLAIN_TEXT" />
+      <mapping pattern=".parameters.test.properties" type="PLAIN_TEXT" />
       <mapping pattern=".env.mcd.test" type="PLAIN_TEXT" />
       <mapping pattern=".mcd-prod-amplify-env" type="PLAIN_TEXT" />
+      <mapping pattern=".mcd-test-amplify-env" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_backend" type="PLAIN_TEXT" />
       <mapping pattern="dsad" type="PLAIN_TEXT" />
