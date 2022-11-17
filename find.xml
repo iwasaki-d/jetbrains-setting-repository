@@ -3,7 +3,7 @@
     <option name="customScope" value="すべての場所" />
     <option name="defaultScopeName" value="すべての場所" />
     <option name="SEARCH_SCOPE" value="すべての場所" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -14,7 +14,6 @@
     <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
-    <mask>*.js</mask>
     <mask>package.json</mask>
     <mask>*.sh</mask>
     <mask>*.json</mask>
@@ -24,5 +23,7 @@
     <mask>*.yaml</mask>
     <mask>*.log</mask>
     <mask>*.ts</mask>
+    <mask>*.*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
