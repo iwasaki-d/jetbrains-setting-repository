@@ -48,6 +48,7 @@
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="ex;ljs" type="PLAIN_TEXT" />
+      <mapping ext="mm" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="142" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
